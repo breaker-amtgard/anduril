@@ -177,14 +177,12 @@ footer {
 	height: 300px;
 	object-fit: cover;
 	display: block;
+	border-bottom:  1px solid #333;
 }
 
 .event-info {
 	padding: 25px;
 
-	display: flex;
-	flex-direction: column;
-	flex-grow: 1;
 }
 
 .event-info .btn {
