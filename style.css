@@ -298,7 +298,8 @@ footer {
 }
 
 .link-icon {
-    font-size: 32px;
+    width: 36px;
+    height: 36px;
     flex-shrink: 0;
 }
 
